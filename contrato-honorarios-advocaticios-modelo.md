@@ -42,7 +42,7 @@ As partes acima identificadas têm, entre si, justo e acertado o presente **Cont
 
 4.3. Os honorários de êxito previstos na alínea "b" da Cláusula 3ª serão pagos em até [00] dias contados do efetivo recebimento, pelo(a) CONTRATANTE, do respectivo valor ou vantagem. Em se tratando de trabalho realizado sob a modalidade de êxito, fica desde já autorizado que o valor correspondente ao proveito econômico obtido seja levantado diretamente pelo(a) CONTRATADO(A), a quem caberá deduzir os custos, despesas e o percentual de honorários de êxito pactuado na Cláusula 3ª, repassando o remanescente ao(à) CONTRATANTE em até [00] dias contados do levantamento.
 
-4.4. O atraso no pagamento de qualquer parcela sujeitará o(a) CONTRATANTE à incidência de multa de 10% (dez por cento) sobre o valor em atraso, juros de mora de 1% ao mês e correção monetária pelo [índice], sem prejuízo da possibilidade de cobrança judicial e/ou renúncia ao mandato, conforme Cláusula 7ª.
+4.4. O atraso no pagamento de qualquer parcela sujeitará o(a) CONTRATANTE à incidência de multa de 10% (dez por cento) sobre o valor em atraso, juros de mora de 1% ao mês e correção monetária pelo [índice], sem prejuízo da possibilidade de cobrança judicial e/ou renúncia ao mandato, conforme Cláusula 6ª.
 
 ## CLÁUSULA 5ª – DAS DESPESAS PROCESSUAIS E EXTRAPROCESSUAIS
 
@@ -50,39 +50,23 @@ As partes acima identificadas têm, entre si, justo e acertado o presente **Cont
 
 5.2. As despesas deverão ser adiantadas pelo(a) CONTRATANTE em até [00] dias após solicitação formal do(a) CONTRATADO(A), sob pena de suspensão dos atos que delas dependam.
 
-## CLÁUSULA 6ª – DAS OBRIGAÇÕES DAS PARTES
+## CLÁUSULA 6ª – DA VIGÊNCIA E DA RESCISÃO
 
-6.1. **São obrigações do(a) CONTRATADO(A):** atuar com zelo, diligência e técnica adequados; manter o(a) CONTRATANTE informado(a) sobre o andamento da causa; observar o Código de Ética e Disciplina da OAB; guardar sigilo profissional.
+6.1. O(A) CONTRATANTE poderá revogar o mandato a qualquer tempo. Caso a revogação do mandato ou a renúncia ao presente contrato parta do(a) CONTRATANTE, este(a) deverá pagar ao(à) CONTRATADO(A), a título de indenização, o dobro do valor dos honorários ora contratados, independentemente da fase em que se encontrar o processo, sem prejuízo dos honorários de sucumbência já devidos ao(à) CONTRATADO(A) nos termos do art. 22, §4º, da Lei nº 8.906/1994.
 
-6.2. **São obrigações do(a) CONTRATANTE:** fornecer, com veracidade e tempestividade, todos os documentos e informações necessários; comparecer a atos que exijam sua presença pessoal; comunicar mudanças de endereço e contato; efetuar os pagamentos nas condições pactuadas.
+6.2. O(A) CONTRATADO(A) poderá renunciar ao mandato a qualquer tempo, independentemente de motivo, observado o dever de continuar representando o(a) CONTRATANTE pelos 10 (dez) dias subsequentes à notificação da renúncia, conforme art. 112 do CPC, preservado o direito aos honorários proporcionais ao trabalho realizado.
 
-## CLÁUSULA 7ª – DA VIGÊNCIA E DA RESCISÃO
+6.3. Constitui motivo para rescisão imediata, independentemente de aviso prévio, o inadimplemento de qualquer obrigação pecuniária por prazo superior a [30] dias, a perda de confiança mútua devidamente justificada, ou a prática de ato que configure quebra da relação de fidúcia inerente ao mandato.
 
-7.1. Este contrato vigorará da data de sua assinatura até o encerramento definitivo da causa objeto da Cláusula 1ª (trânsito em julgado, arquivamento ou cumprimento integral da obrigação), podendo ser renovado mediante termo aditivo.
+## CLÁUSULA 7ª – DAS DISPOSIÇÕES GERAIS
 
-7.2. O(A) CONTRATANTE poderá revogar o mandato a qualquer tempo, ficando responsável pelo pagamento proporcional dos honorários fixos relativos ao trabalho já realizado, calculados com base na fase processual atingida, sem prejuízo dos honorários de sucumbência já devidos ao(à) CONTRATADO(A) nos termos do art. 22, §4º, da Lei nº 8.906/1994.
+7.1. A tolerância de uma parte quanto ao descumprimento de qualquer cláusula pela outra não implicará novação ou renúncia de direitos.
 
-7.3. O(A) CONTRATADO(A) poderá renunciar ao mandato, observado o dever de continuar representando o(a) CONTRATANTE pelos 10 (dez) dias subsequentes à notificação da renúncia, conforme art. 112 do CPC, preservado o direito aos honorários proporcionais ao trabalho realizado.
+7.2. **A CONTRATANTE DECLARA ESTAR DEVIDAMENTE ADVERTIDA SOBRE O "GOLPE DO FALSO ADVOGADO"**, no qual terceiros se passam pelo(a) CONTRATADO(A) ou por seus prepostos para solicitar depósitos, transferências ou pagamentos em contas ou dados diversos dos indicados na Cláusula 4.2 deste contrato. A CONTRATADA não se responsabiliza por pagamentos realizados em contas ou para pessoas diversas das expressamente indicadas neste instrumento, tampouco por solicitações feitas fora dos canais de comunicação oficialmente estabelecidos entre as partes, cabendo ao(à) CONTRATANTE sempre confirmar diretamente com o(a) CONTRATADO(A), por canal já conhecido, qualquer solicitação de pagamento antes de efetuá-lo.
 
-7.4. Constitui motivo para rescisão imediata, independentemente de aviso prévio, o inadimplemento de qualquer obrigação pecuniária por prazo superior a [30] dias, a perda de confiança mútua devidamente justificada, ou a prática de ato que configure quebra da relação de fidúcia inerente ao mandato.
+## CLÁUSULA 8ª – DO FORO
 
-## CLÁUSULA 8ª – DA CONFIDENCIALIDADE E DA LGPD
-
-8.1. As partes comprometem-se a manter sigilo sobre todas as informações e documentos trocados em razão deste contrato, inclusive após seu término, ressalvadas as hipóteses de exigência legal ou determinação judicial.
-
-8.2. Os dados pessoais tratados no âmbito deste contrato serão utilizados exclusivamente para a execução dos serviços contratados, em conformidade com a Lei nº 13.709/2018 (LGPD).
-
-## CLÁUSULA 9ª – DAS DISPOSIÇÕES GERAIS
-
-9.1. Este contrato não gera vínculo empregatício entre as partes, tratando-se de relação de natureza estritamente civil.
-
-9.2. Eventuais alterações a este contrato somente serão válidas se realizadas por escrito, mediante termo aditivo assinado por ambas as partes.
-
-9.3. A tolerância de uma parte quanto ao descumprimento de qualquer cláusula pela outra não implicará novação ou renúncia de direitos.
-
-## CLÁUSULA 10ª – DO FORO
-
-10.1. Fica eleito o foro da comarca de [cidade/UF] para dirimir quaisquer dúvidas ou controvérsias oriundas deste contrato, com renúncia expressa a qualquer outro, por mais privilegiado que seja.
+8.1. Fica eleito o foro da comarca de [cidade/UF] para dirimir quaisquer dúvidas ou controvérsias oriundas deste contrato, com renúncia expressa a qualquer outro, por mais privilegiado que seja.
 
 E, por estarem assim justas e contratadas, as partes assinam o presente instrumento em 2 (duas) vias de igual teor e forma, na presença das testemunhas abaixo.
 
