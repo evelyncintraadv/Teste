@@ -16,9 +16,7 @@ As partes acima identificadas têm, entre si, justo e acertado o presente **Cont
 
 ## CLÁUSULA 2ª – DA PROCURAÇÃO E DOS LIMITES DO MANDATO
 
-2.1. O(A) CONTRATANTE outorgará ao(à) CONTRATADO(A) procuração com os poderes da cláusula "ad judicia et extra", acrescidos, se necessário, de poderes especiais para os fins previstos no art. 105 do Código de Processo Civil.
-
-2.2. Os poderes especiais (transigir, desistir, renunciar a direitos, receber e dar quitação, firmar compromisso, entre outros) somente serão exercidos mediante autorização expressa e prévia do(a) CONTRATANTE.
+2.2. O(A) CONTRATANTE outorgará ao(à) CONTRATADO(A) procuração com os poderes da cláusula "ad judicia et extra", acrescidos, se necessário, de poderes especiais para os fins previstos no art. 105 do Código de Processo Civil, tais como transigir, desistir, renunciar a direitos, receber e dar quitação e firmar compromisso, entre outros, os quais somente serão exercidos mediante autorização expressa e prévia do(a) CONTRATANTE.
 
 ## CLÁUSULA 3ª – DOS HONORÁRIOS ADVOCATÍCIOS
 
@@ -34,13 +32,17 @@ As partes acima identificadas têm, entre si, justo e acertado o presente **Cont
 
 3.3. Os valores acima poderão ser reajustados anualmente pela variação do [índice – ex.: IPCA/IGP-M], ou em caso de majoração relevante da complexidade da causa, mediante prévia comunicação e concordância do(a) CONTRATANTE.
 
+3.4. Considerar-se-ão vencidos e imediatamente exigíveis os honorários ora contratados, no caso de o(a) CONTRATANTE vir a revogar ou cassar o mandato outorgado ao(à) CONTRATADO(A) ou a exigir o substabelecimento sem reservas, sem que este(a) tenha, para isso, dado causa.
+
 ## CLÁUSULA 4ª – DA FORMA DE PAGAMENTO
 
-4.1. Os honorários fixos previstos na alínea "a" da Cláusula 3ª serão pagos da seguinte forma: [à vista / em "X" parcelas mensais e sucessivas de R$ ..., vencendo a primeira em .../.../... ], mediante [transferência bancária/PIX/boleto] para os dados a seguir informados pelo(a) CONTRATADO(A).
+4.1. Os honorários fixos previstos na alínea "a" da Cláusula 3ª serão pagos da seguinte forma: [à vista / em "X" parcelas mensais e sucessivas de R$ ..., vencendo a primeira em .../.../... ], mediante transferência bancária ou PIX, nos dados informados na Cláusula 4.2.
 
-4.2. Os honorários de êxito previstos na alínea "b" da Cláusula 3ª serão pagos em até [00] dias contados do efetivo recebimento, pelo(a) CONTRATANTE, do respectivo valor ou vantagem, podendo o(a) CONTRATADO(A), quando tecnicamente viável, requerer o levantamento direto de sua quota-parte.
+4.2. O depósito da verba acordada deverá ser realizado na seguinte conta: Banco Bradesco, Agência 2532, Conta-Corrente nº 0010663-1, de titularidade de Evelyn Cintra Pinto, PIX (CPF): 386.976.588-70.
 
-4.3. O atraso no pagamento de qualquer parcela sujeitará o(a) CONTRATANTE à incidência de multa de [2]% sobre o valor em atraso, juros de mora de 1% ao mês e correção monetária pelo [índice], sem prejuízo da possibilidade de cobrança judicial e/ou renúncia ao mandato, conforme Cláusula 7ª.
+4.3. Os honorários de êxito previstos na alínea "b" da Cláusula 3ª serão pagos em até [00] dias contados do efetivo recebimento, pelo(a) CONTRATANTE, do respectivo valor ou vantagem. Em se tratando de trabalho realizado sob a modalidade de êxito, fica desde já autorizado que o valor correspondente ao proveito econômico obtido seja levantado diretamente pelo(a) CONTRATADO(A), a quem caberá deduzir os custos, despesas e o percentual de honorários de êxito pactuado na Cláusula 3ª, repassando o remanescente ao(à) CONTRATANTE em até [00] dias contados do levantamento.
+
+4.4. O atraso no pagamento de qualquer parcela sujeitará o(a) CONTRATANTE à incidência de multa de 10% (dez por cento) sobre o valor em atraso, juros de mora de 1% ao mês e correção monetária pelo [índice], sem prejuízo da possibilidade de cobrança judicial e/ou renúncia ao mandato, conforme Cláusula 7ª.
 
 ## CLÁUSULA 5ª – DAS DESPESAS PROCESSUAIS E EXTRAPROCESSUAIS
 
