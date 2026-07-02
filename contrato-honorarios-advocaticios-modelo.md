@@ -66,7 +66,7 @@ As partes acima identificadas têm, entre si, justo e acertado o presente **Cont
 
 ## CLÁUSULA 8ª – DO FORO
 
-8.1. Fica eleito o foro da comarca de [cidade/UF] para dirimir quaisquer dúvidas ou controvérsias oriundas deste contrato, com renúncia expressa a qualquer outro, por mais privilegiado que seja.
+8.1. Fica eleito o foro da comarca de Atibaia/SP para dirimir quaisquer dúvidas ou controvérsias oriundas deste contrato, com renúncia expressa a qualquer outro, por mais privilegiado que seja.
 
 E, por estarem assim justas e contratadas, as partes assinam o presente instrumento em 2 (duas) vias de igual teor e forma, na presença das testemunhas abaixo.
 
