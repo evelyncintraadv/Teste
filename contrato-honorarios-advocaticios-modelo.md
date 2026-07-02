@@ -2,7 +2,7 @@
 
 **CONTRATANTE:** [NOME COMPLETO / RAZÃO SOCIAL], [nacionalidade], [estado civil], [profissão], portador(a) do CPF/CNPJ nº [000.000.000-00], residente e domiciliado(a) / com sede em [endereço completo], doravante denominado(a) simplesmente **CONTRATANTE**;
 
-**CONTRATADO(A):** [NOME DO(A) ADVOGADO(A) / SOCIEDADE DE ADVOGADOS], inscrito(a) na OAB/[UF] sob o nº [00.000], com escritório profissional situado em [endereço completo], doravante denominado(a) simplesmente **CONTRATADO(A)**;
+**CONTRATADO(A):** EVELYN CINTRA PINTO, brasileira, solteira, advogada regularmente inscrita nos quadros da OAB/SP sob o nº 330.996, com endereço profissional na Rua Napoleão Ferro, 492, Alvinópolis, CEP 12942-610, cidade de Atibaia, Estado de São Paulo, doravante denominado(a) simplesmente **CONTRATADO(A)**;
 
 As partes acima identificadas têm, entre si, justo e acertado o presente **Contrato de Prestação de Serviços Advocatícios e Honorários**, que se regerá pelas cláusulas seguintes e pela legislação aplicável, em especial a Lei nº 8.906/1994 (Estatuto da OAB) e o Código de Ética e Disciplina da OAB.
 
